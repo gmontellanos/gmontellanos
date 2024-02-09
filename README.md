@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmontellanos
-- 👀 I’m interested in front end web development.
+- 👀 I’m interested in front end web development and design.
 - 🌱 I’m currently learning html, css & javascript!
 - 💞️ I’m looking to collaborate on projects to advance my programming skills.
 - 📫 How to reach me montellanos01@gmail.com
